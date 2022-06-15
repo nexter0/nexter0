@@ -1,1 +1,1 @@
-Jak ktoś chce dostęp do repo z jakiegoś przedmiotu to pisać dm na fb lub na Discordzie.
+Jak ktoś chce dostęp do repo z zestawami jakiegoś przedmiotu to pisać dm na fb lub na Discordzie.
