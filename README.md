@@ -8,4 +8,3 @@
 ```
 
 ## Do wszystkich, których nie znam a biorą ode mnie kody - nie ma za co 😉
-follow, żebym wiedział ilu osobom pomagam xd
