@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexter0)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
-⚠️ PEP 8: W292 no newline at end of file 😱😱😭
+⚠️ PEP 8: W292 no newline at end of file 😭
 ```
 
+## Do wszystkich, których nie znam a biorą ode mnie kody - nie ma za co 😉
+follow, żebym wiedział ilu osobom pomagam xd
