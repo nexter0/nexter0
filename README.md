@@ -1,6 +1,6 @@
 *If nothing goes right, go left.*
 ```
-⚠️ PEP 8: W292 no newline at end of file 😭
+⚠️ PEP 8: W292 no newline at end of file 
 ```
 
 # I've been studying:
