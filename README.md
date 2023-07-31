@@ -8,9 +8,10 @@ Aspiring software engineer, I'm interested in anything regarding IT but don't fo
 
 *If nothing goes right, go left.*
 
-📚 UNI PROGRESS:
+📚 **UNI PROGRESS:**
  - [x] Year 1
  - [x] Year 2
  - [ ] Year 3
  - [ ] Year 4
  - [ ] Engineer's Degree
+...
