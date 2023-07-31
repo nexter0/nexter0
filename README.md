@@ -14,4 +14,5 @@ Aspiring software engineer, I'm interested in anything regarding IT but don't fo
  - [ ] Year 3
  - [ ] Year 4
  - [ ] Engineer's Degree
-...
+
+... and to be continued ...
