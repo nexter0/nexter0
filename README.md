@@ -6,12 +6,3 @@ Aspiring software engineer, I'm interested in anything regarding IT but don't fo
 > **Note:** Stats based on public repos only :)
 
 *If nothing goes right, go left.*
-
-📚 **UNI PROGRESS:**
- - [x] Year 1
- - [x] Year 2
- - [ ] Year 3
- - [ ] Year 4
- - [ ] Engineer's Degree
-  
-... and to be continued ...
